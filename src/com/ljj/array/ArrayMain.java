@@ -7,7 +7,7 @@ package com.ljj.array;
  * @author 刘佳佳 
  * @date 2017年8月20日 下午2:44:40
  */
-public class MyArray {
+public class ArrayMain {
 
 	public static void main(String[] args) {
 		
